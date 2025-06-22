@@ -1,0 +1,11 @@
+# ninja log v6
+12	1491	7716193632705173	CMakeFiles/CMakeTarget.dir/undergrad.cpp.obj	da2976ec69115167
+25	1508	7716193632828492	CMakeFiles/CMakeTarget.dir/StudentDatabase.cpp.obj	8fb325fd23237c26
+5	1583	7716193632645304	CMakeFiles/CMakeTarget.dir/main.cpp.obj	bea382695ba76fd6
+18	1591	7716193632765446	CMakeFiles/CMakeTarget.dir/Menu.cpp.obj	e914d96edffbd54a
+1592	2009	7716193648481389	CMakeTarget.exe	d7ad5ccf4e1e647b
+10	1200	7720532859076801	CMakeFiles/CMakeTarget.dir/undergrad.cpp.obj	da2976ec69115167
+19	1205	7720532859156815	CMakeFiles/CMakeTarget.dir/StudentDatabase.cpp.obj	8fb325fd23237c26
+15	1223	7720532859116816	CMakeFiles/CMakeTarget.dir/Menu.cpp.obj	e914d96edffbd54a
+4	1233	7720532859016876	CMakeFiles/CMakeTarget.dir/main.cpp.obj	bea382695ba76fd6
+1233	1501	7720532871306004	CMakeTarget.exe	d7ad5ccf4e1e647b
